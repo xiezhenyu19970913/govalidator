@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df97af91-e173-4db4-a785-d89c9c8d7422" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/captcha.go" beforeDir="false" afterPath="$PROJECT_DIR$/captcha.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/example/main.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="D:\Program Files\golang\go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jGYbfb8T2yQogVIUDr7foR1c0a" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JWTdemo" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <environment>
+      <map>
+        <entry key="GOPROXY" value="" />
+      </map>
+    </environment>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="433" y="174" key="#Go_模块" timestamp="1603432903745">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="433" y="174" key="#Go_模块/0.0.1280.680@0.0.1280.680" timestamp="1603432903745" />
+    <state x="474" y="141" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603431981354">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="474" y="141" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1603431981354" />
+    <state x="540" y="200" key="EnvironmentVariablesDialog" timestamp="1603432902976">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="540" y="200" key="EnvironmentVariablesDialog/0.0.1280.680@0.0.1280.680" timestamp="1603432902976" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1603849136072">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1603849136072" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1603432153439">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1603432153439" />
+  </component>
+</project>
